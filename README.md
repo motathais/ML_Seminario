@@ -1,5 +1,4 @@
 # ML_Seminario
-Membros: Thais Marques Mota, Emerson Rodrigo Lopes, Kethilyn Francielle Aquino Ferreira
 
 Artigo 1: Análise Preditiva da Popularidade de Jogos Indie
 Resumo:
