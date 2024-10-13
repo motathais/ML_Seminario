@@ -1,0 +1,1 @@
+/*algoritmo naive bayes*/
