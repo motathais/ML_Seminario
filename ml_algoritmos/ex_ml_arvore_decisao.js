@@ -1,3 +1,5 @@
+/* Algoritmo arvore de decisao */
+
 // Função para calcular a entropia
 function calculateEntropy(data) {
     const total = data.length;
