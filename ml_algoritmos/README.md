@@ -30,4 +30,9 @@ Algoritmos utilizados no artigo escolhido:
 * Método SVM (Linear Kernel)
 * Método de regressão logística
 
+Objetivo: 
+Criar uma análise preditiva onde, fornecidas informações gerais e de saúde de indivíduos (idade, sexo, colesterol, pressão, açúcar no sange entre outros), seja prevista a presença ou não de doença cardíaca.
+
+
+
 
