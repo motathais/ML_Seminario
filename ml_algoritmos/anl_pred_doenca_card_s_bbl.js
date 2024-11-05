@@ -66,9 +66,9 @@ function getSplit(dataset) {
   const classValues = [...new Set(dataset.map(row => row[row.length - 1]))];
   let bestIndex, bestValue, bestScore = 1, bestGroups;
 
-  // Selecionar 90% das features de forma aleatória
+  // Selecionar 80% das features de forma aleatória
   const numFeatures = dataset[0].length - 1; // Exclui a coluna de label
-  const featureSubsetSize = Math.floor(numFeatures * 0.9);
+  const featureSubsetSize = Math.floor(numFeatures * 0.8);
   const featureIndices = [];
 
   // Gera um array com índices de features aleatórios
