@@ -33,6 +33,8 @@ Algoritmos utilizados no artigo escolhido:
 Objetivo: 
 Criar uma análise preditiva onde, fornecidas informações gerais e de saúde de indivíduos (idade, sexo, colesterol, pressão, açúcar no sange entre outros), seja prevista a presença ou não de doença cardíaca.
 
+Algoritmo escolhido:
+Floresta Aleatória - melhor eficiência para o modelo de dados escolhido.
 
 
 

@@ -1,0 +1,16 @@
+{
+  "name": "ml_algoritmos",
+  "version": "1.0.0",
+  "description": "Artigo 1: Análise Preditiva da Popularidade de Jogos Indie\r Resumo:\r Os jogos eletrônicos se tornaram cada vez mais populares na última década e esse crescimento pode ser visto no seu valor de mercado. Além disso, com a grande quantidade de jogos sendo lançados anualmente na plataforma Steam, é necessário que um jogo se destaque em relação a outros. Esse problema é maior para desenvolvedores independentes, que em sua maioria não consegue gerar uma receita bruta vitalícia maior que mil dólares. Portanto, neste trabalho, temos como objetivo estudar quais características dos jogos indie influenciam em diferentes métricas de popularidade: quantidade de avaliações, proporção de avaliações positivas e descrição das avaliações. A principal análise realizada foi o impacto dos diferentes gêneros na modelagem estatística e, devido a isso, foi realizada uma análise de associação e um agrupamento dos diversos gêneros desses jogos. Por fim, os modelos que tiveram melhor desempenho serão aplicados em uma base de jogos indie lançados na plataforma Steam em 2023, comparando os resultados com o que se encontra na base de dados.\r Palavras-Chave: Jogos, Jogos Eletrônicos, Jogos Independentes, Pontuação de Jogos, Aprendizagem de Máquina.\r #Link: https://lume.ufrgs.br/handle/10183/262039\r #Repositório: https://steamcommunity.com/dev?l=brazilian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "ml-random-forest": "^2.1.0"
+  }
+}

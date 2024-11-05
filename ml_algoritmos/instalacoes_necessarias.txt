@@ -1,0 +1,18 @@
+--> biliotecas/instalações utilizadas:
+
+npm init -y
+
+npm install
+
+--> bibliotecas a parte:
+
+npm install ml-random-forest
+
+npm install csv-parse
+
+npm install ml-random-forest csv-parse
+
+--> para executar os algoritmos: node nome_do_arquivo.js
+
+
+
