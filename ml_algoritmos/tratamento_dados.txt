@@ -6,7 +6,7 @@ https://archive.ics.uci.edu/dataset/45/heart+disease
 A UC Irvine Machine Learning Repository é um repositório público de dados 
 que mantém 670 conjuntos de dados como um serviço para a comunidade de aprendizado de máquina.
 
-De um conjunto de 76 atributos, foram selecionados 14 (descriçaõ dos atributos no arquivo legenda_dados.xlsx)
+No dataset escolhido, de um conjunto de 76 atributos, foram selecionados 14 (descriçaõ dos atributos no arquivo legenda_dados.xlsx)
 
 --> Tratamento dos dados:
 
