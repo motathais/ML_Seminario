@@ -1,8 +1,8 @@
 # ML_Seminario
 MEMBROS:
 
-Thais Marques Mota
-Kethilyn Francielle Aquino Ferreira
+Thais Marques Mota, 
+Kethilyn Francielle Aquino Ferreira, 
 Emerson Rodrigo Lopes
 
 DISCIPLINA: Aprendizagem de máquina - FATEC Mauá 2024
