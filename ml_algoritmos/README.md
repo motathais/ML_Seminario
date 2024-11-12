@@ -1,4 +1,10 @@
 # ML_Seminario
+MEMBROS:
+
+Thais Marques Mota
+Kethilyn Francielle Aquino Ferreira
+Emerson Rodrigo Lopes
+
 
 Artigo 1: Análise Preditiva da Popularidade de Jogos Indie
 Resumo:
@@ -7,7 +13,7 @@ Palavras-Chave: Jogos, Jogos Eletrônicos, Jogos Independentes, Pontuação de J
 #Link: https://lume.ufrgs.br/handle/10183/262039
 #Repositório: https://steamcommunity.com/dev?l=brazilian
 
-Artigo 2: Análise Preditiva de Doenças Cardíacas com Abordagem de Machine Learning
+Artigo 2: Análise Preditiva de Doenças Cardíacas com Abordagens de Machine Learning
 Resumo: 
 O Machine Learning (ML) é usado nos setores de saúde em todo o mundo. Os métodos de ML auxiliam na proteção de doenças cardíacas e distúrbios locomotores no conjunto de dados médicos. A descoberta de tais dados essenciais ajuda os pesquisadores a obter informações valiosas sobre como utilizar o diagnóstico e o tratamento para um paciente específico. Os pesquisadores usam vários métodos de aprendizado de máquina para examinar grandes quantidades de dados complexos de saúde, o que auxilia os profissionais de saúde na previsão de doenças. Nesta pesquisa, estamos usando um conjunto de dados UCI online com 303 linhas e 76 propriedades. Aproximadamente 14 dessas 76 propriedades são selecionadas para teste, o que é necessário para validar o desempenho de diferentes métodos. A abordagem da floresta de isolamento utiliza as qualidades e métricas mais essenciais do conjunto de dados para padronizar as informações e obter melhor precisão. Esta análise é baseada em métodos de aprendizagem supervisionada, ou seja, Naive Bayes, SVM, regressão logística, classificador de árvore de decisão, floresta aleatória e K-NearestNeighbor. Os resultados experimentais demonstram a força do KNN com ordem de oito vizinhos para testar a eficácia, sensibilidade, precisão e exatidão, pontuação F1; em comparação com outros métodos, ou seja, Naive Bayes, SVM (Linear Kernel), classificador de árvore de decisão com 4 ou 18 recursos e classificadores Random.
 
@@ -31,7 +37,7 @@ Algoritmos utilizados no artigo escolhido:
 * Método de regressão logística
 
 Objetivo: 
-Criar uma análise preditiva onde, fornecidas informações gerais e de saúde de indivíduos (idade, sexo, colesterol, pressão, açúcar no sange entre outros), seja prevista a presença ou não de doença cardíaca.
+Criar uma análise preditiva onde, fornecidas informações gerais e de saúde de indivíduos (idade, sexo, colesterol, pressão entre outros), seja prevista a presença ou não de doença cardíaca.
 
 Algoritmo escolhido:
 Floresta Aleatória - melhor eficiência para o modelo de dados escolhido.
