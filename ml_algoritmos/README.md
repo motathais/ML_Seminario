@@ -5,6 +5,11 @@ Thais Marques Mota
 Kethilyn Francielle Aquino Ferreira
 Emerson Rodrigo Lopes
 
+DISCIPLINA: Aprendizagem de máquina - FATEC Mauá 2024
+
+PROFESSOR: Bruno Zolotareff dos Santos
+
+ARTIGOS:
 
 Artigo 1: Análise Preditiva da Popularidade de Jogos Indie
 Resumo:
@@ -21,12 +26,14 @@ Palavras-Chave: Heart Disease, HealthCare, Machine Learning, Naive Bayes, Decisi
 #Link: https://jpmm.um.edu.my/index.php/MJCS/article/view/35980/14415
 #Repositório: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
 
-Justificativa para a escolha dos artigos:
+JUSTIFICATIVA ARTIGOS:
 
 Artigo 1: Consideramos o artigo "Análise Preditiva da Popularidade de Jogos Indie" para a nossa pesquisa pois nos interessamos pelo tema, possui os dados publicamente via API (Steam Web API) e contém uma descrição detalhada das análises estatísticas feitas e os conceitos de IA aplicados.
 Artigo 2: Consideramos o artigo "Análise Preditiva de Doenças Cardíacas com Abordagem de Machine Learning" pois, de maneira semelhante, possui os dados publicos disponíveis em CSV, e contém descrições e conceitos estatísticos e dos algoritmos utilizados de forma clara. Buscamos a área da saúde pois é um tema popular e que possui muitos estudos disponíveis.
 
-Proposta: Considerando a menor complexidade da base de dados do artigo 2 "Análise Preditiva de Doenças Cardíacas com Abordagem de Machine Learning" e a praticidade de seu formato para extração e uso, podendo ser incluído em uma planilha, iremos prosseguir com o artigo 2.
+PROPOSTA: 
+
+Considerando a menor complexidade da base de dados do artigo 2 "Análise Preditiva de Doenças Cardíacas com Abordagem de Machine Learning" e a praticidade de seu formato para extração e uso, podendo ser incluído em uma planilha, iremos prosseguir com o artigo 2.
 
 Algoritmos utilizados no artigo escolhido:
 * Método de árvore de decisão
@@ -36,7 +43,7 @@ Algoritmos utilizados no artigo escolhido:
 * Método SVM (Linear Kernel)
 * Método de regressão logística
 
-Objetivo: 
+OBJETIVO: 
 Criar uma análise preditiva onde, fornecidas informações gerais e de saúde de indivíduos (idade, sexo, colesterol, pressão entre outros), seja prevista a presença ou não de doença cardíaca.
 
 Algoritmo escolhido:
